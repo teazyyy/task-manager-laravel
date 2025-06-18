@@ -28,8 +28,7 @@ return [
     'Your role' => 'Your role',
     'Go to Task Manager' => 'Go to Task Manager',
     'new_feature' => 'New_feature',
-
-
+    'log out' => 'Log out'
 
 ];
 
