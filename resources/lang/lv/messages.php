@@ -28,10 +28,8 @@ return [
     'Your role' => 'Tava loma',
     'Go to Task Manager' => 'Iet uz uzdevumu pārvaldnieku',
     'new_feature' => 'Jauna funkcija',
-
-
-
-
+    
+    'new_feature' => 'Jauna funkcijaa',
 
 ];
 
